@@ -9,7 +9,7 @@
   <img align="left" alt="Esha's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> </a>
   <a href="https://twitter.com/eshaAga7302"><img align="left" alt= "Esha Agarwal | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" /> </a>
   <img align="left" alt="CoderGuy" width="3%" src="https://www.csm.ornl.gov/~sheldon/ds/images/book_q.gif" >
-  <img align="right" src="https://komarev.com/ghpvc/?username=eshaagarwa&label=Profile%20views&color=0e75b6&style=flat" alt="eshaagarwa" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=eshaagarwa&label=Profile%20views&color=0e75b6&style=flat" alt="nidhiupman" />
   <img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   
   <img align="center" width="100%" src="https://github.com/eshaagarwa/eshaagarwa/blob/main/ESHA%20AGARWAL%20(1).gif">
@@ -17,7 +17,7 @@
 
 
 
-<img alt="Night Coding" src="Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Esha</h2>
+<img alt="Night Coding" src="Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Nidhi Upman</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Esha -->
 
