@@ -4,8 +4,10 @@
 <br>
 
 <br>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=500&pause=1000&color=FF0000&center=true&multiline=true&random=false&width=1100&height=500&lines=NNNN......NN....IIIIIIIII....DDDD.......HH....HH....IIIIIIIII;NN.NN.....NN.......II........DD..DD.....HH....HH.......II....;NN...NN...NN.......II........DD...DD....HHHHHHHH.......II....;NN.....NN.NN.......II........DD..DD.....HH....HH.......II....;NN......NNNN....IIIIIIIII....DDDD.......HH....HH....IIIIIIIII;----------------------------------------------------------------;UU.......UU....PPPPP......MMMM......MMMM.........AA.........NNNN.....NN;UU.......UU....PP...PP....MM..MM..MM..MM.......AA..AA.......NN.NN....NN;UU.......UU....PPPPP......MM....MM....MM......AAAAAAAA......NN...NN..NN;UUU.....UUU....PP.........MM..........MM.....AA......AA.....NN....NN.NN;UUUUUUUUUUU....PP.........MM..........MM....AA........AA....NN.....NNNN" alt="Typing SVG" /></a>
+<br>
+<br>
+<br>
 <!--<h1 align="center">Hi 👋, I'm Nidhi Upman</h1>-->
 
 <h3 align="center">💻Software Engineering Student 👨‍💻 | Seeking Job Opportunities 💼 | Strong academic foundation in Computer Science 📚 | Proficient in many technical skills 💡 | Passionate about coding, problem-solving, and continuous learning 🚀 | Eager to contribute to impactful projects 🌟 | Seeking growth in a dynamic organization 🌱.</h3>
