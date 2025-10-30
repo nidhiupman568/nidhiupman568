@@ -75,7 +75,7 @@
   
 - 👨‍💻All of my projects are available at [Github](https://github.com/nidhiupman568)💻✨
 
-- 📄Check out my portfolio link at [Portfolio](https://github.com/nidhiupman568/NIDHI-UPMAN-PORTFOLIO-Inspired-by-TERMINAL-POWERSHELL-COMMAND-PROMPT-) 💻✨
+- 📄Check out my portfolio link at [Portfolio](https://nidhi-upman-command-prompt-portfolio.vercel.app/) 💻✨
 
 - 📫How to reach me **upmanyunidhi3092@gmail.com**
 
